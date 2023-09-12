@@ -13,7 +13,7 @@ The jupyter notebook "Prediction of Flower Species" contains following models :
 
 The hyperparameter tuning has also been implemented seperately for each model.
 
-For the web application, "Iris Species Prediction" python file has been created via Spyder IDE and Streamlit library 
+For the web application, "Iris Species Prediction app" python file has been created via Spyder IDE and Streamlit library 
 for which following three pickle files have been used:
                           
                                    1. SVC_model.pkl
