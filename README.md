@@ -8,5 +8,6 @@ The contents used for the completion of the task are:
           4. SVC_model.pkl
           5. Scaler.pkl
           6. Encoder.pkl
-                                  
-The last three are pickle files used in the python file while creating the web application.
+          7. Documentation - Task 1                        
+The last three are pickle files used in the python IDE to creating the web application.
+The Documentation file contains the steps taken to create this project.
