@@ -2,8 +2,6 @@
 
 TASK_1: Iris Species Detection
 
-Objective: To create a ML model to predict the species of flowers based on their features.
-
 The contents used for the completion of the task are:
           
           1. jupyter notebook -  Prediction of Flower Species.ipynb
