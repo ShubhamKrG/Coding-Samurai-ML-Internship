@@ -1,6 +1,4 @@
-# Coding-Samurai-ML-Internship
-
-TASK_1: Iris Species Detection
+# TASK_1: Iris Species Detection
 
 The contents used for the completion of the task are:
           
